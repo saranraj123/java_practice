@@ -19,7 +19,7 @@ public class ArraylistAddRemove {
 		System.out.println(LocalTime.now());
 		numbers.get(1);
 		System.out.println(LocalTime.now());
-		
+
 		System.out.println("-------------------");
 		List<Integer> numbersLink = new LinkedList<Integer>();
 		numbersLink.add(1);
@@ -30,9 +30,6 @@ public class ArraylistAddRemove {
 		System.out.println(LocalTime.now());
 		numbersLink.get(1);
 		System.out.println(LocalTime.now());
-
-		
-
 
 	}
 
